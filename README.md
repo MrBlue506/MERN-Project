@@ -72,6 +72,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
+### HomelyHub app using MERN Stack
+
 HomelyHub is a platform that lets people find and book unique places to 
 stay while traveling. Whether it's a cozy home or a fancy villa, or room, you 
 can experience a personalized stay. Hosts can also earn money by sharing 
